@@ -1,0 +1,5 @@
+[
+  { "column": "Nom", "width": 20 },
+  { "column": "Prenom", "width": 20 },
+  { "column": "Age", "width": 3 }
+]

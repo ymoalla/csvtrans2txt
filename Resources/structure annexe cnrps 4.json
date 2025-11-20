@@ -1,0 +1,245 @@
+{
+  "data": [
+    {
+      "NOM": "Code  Etablissement",
+      "Type  ( longeur du champ)": "NUMBER(10)"
+    },
+    {
+      "NOM": "TYPE_SALAIRE",
+      "Type  ( longeur du champ)": "NUMBER(2)"
+    },
+    {
+      "NOM": "PERIODE",
+      "Type  ( longeur du champ)": "NUMBER(2)"
+    },
+    {
+      "NOM": "ANNEE",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "Base de calcul de la paie",
+      "Type  ( longeur du champ)": "NUMBER(1)"
+    },
+    {
+      "NOM": "ETAB_ORIGINE_DETACH",
+      "Type  ( longeur du champ)": "VARCHAR(20)"
+    },
+    {
+      "NOM": "IDENTIF_UNIQUE",
+      "Type  ( longeur du champ)": "NUMBER(10)"
+    },
+    {
+      "NOM": "NOM",
+      "Type  ( longeur du champ)": "VARCHAR(40)"
+    },
+    {
+      "NOM": "PRENOM",
+      "Type  ( longeur du champ)": "VARCHAR(40)"
+    },
+    {
+      "NOM": "DATE_NAISSANCE",
+      "Type  ( longeur du champ)": "DATE(8)"
+    },
+    {
+      "NOM": "SEXE",
+      "Type  ( longeur du champ)": "VARCHAR(1)"
+    },
+    {
+      "NOM": "Lieu D'Affectation",
+      "Type  ( longeur du champ)": "Number(4)"
+    },
+    {
+      "NOM": "POSITION ADMINISTRATIVE",
+      "Type  ( longeur du champ)": "NUMBER(2)"
+    },
+    {
+      "NOM": "DATE_EFFET_POSITION ADM",
+      "Type  ( longeur du champ)": "DATE(8)"
+    },
+    {
+      "NOM": "SOUS_POSITION ADMINISTRATIVE",
+      "Type  ( longeur du champ)": "NUMBER(2)"
+    },
+    {
+      "NOM": "DATE_EFFET_SOUS_POSI",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "Code QUALITE_RECRUTEMENT",
+      "Type  ( longeur du champ)": "NUMBER(2)"
+    },
+    {
+      "NOM": "DATE_EFFET_QUALITE_REC",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "DATE_FIN_CONTRAT",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "Code GRADE",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_GRADE",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "Code FONCTION",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_FONCTION",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "REGIME   40_48",
+      "Type  ( longeur du champ)": "NUMBER(2)"
+    },
+    {
+      "NOM": "CATEGORIE_CLASSEMENT",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_CATG_CLASS",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE_CATEG_PROFESS",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_CATG_PROFES",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "ORDRE_ECHELLE",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "CODE ECHELLE",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_ECHELLE",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "ECHELON",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_ECHELON",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "NIVEAU",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_NIVEAU",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CLASSE",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_CLASSE",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CLASSE PRODUCTIVITE",
+      "Type  ( longeur du champ)": "NUMBER(4)"
+    },
+    {
+      "NOM": "DATE_EFFET_CLASS_PROD",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE _INDEMNITES_1",
+      "Type  ( longeur du champ)": "Number(3)"
+    },
+    {
+      "NOM": "MONTANT_INDEMNITE_1",
+      "Type  ( longeur du champ)": "Number(12)"
+    },
+    {
+      "NOM": "DATE_EFFET_INDEM_1",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE _INDEMNITES_2",
+      "Type  ( longeur du champ)": "Number(3)"
+    },
+    {
+      "NOM": "MONTANT_INDEMNITE_2",
+      "Type  ( longeur du champ)": "Number(12)"
+    },
+    {
+      "NOM": "DATE_EFFET_INDEM_2",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE _INDEMNITES_3",
+      "Type  ( longeur du champ)": "Number(3)"
+    },
+    {
+      "NOM": "MONTANT_INDEMNITE_3",
+      "Type  ( longeur du champ)": "Number(12)"
+    },
+    {
+      "NOM": "DATE_EFFET_INDEM_3",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE _INDEMNITES_4",
+      "Type  ( longeur du champ)": "Number(3)"
+    },
+    {
+      "NOM": "MONTANT_INDEMNITE_4",
+      "Type  ( longeur du champ)": "Number(12)"
+    },
+    {
+      "NOM": "DATE_EFFET_INDEM_4",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE _INDEMNITES_5",
+      "Type  ( longeur du champ)": "Number(3)"
+    },
+    {
+      "NOM": "MONTANT_INDEMNITE_5",
+      "Type  ( longeur du champ)": "Number(12)"
+    },
+    {
+      "NOM": "DATE_EFFET_INDEM_5",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE _INDEMNITES_6",
+      "Type  ( longeur du champ)": "Number(3)"
+    },
+    {
+      "NOM": "MONTANT_INDEMNITE_6",
+      "Type  ( longeur du champ)": "Number(12)"
+    },
+    {
+      "NOM": "DATE_EFFET_INDEM_6",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+    },
+    {
+      "NOM": "CODE _INDEMNITES_7",
+      "Type  ( longeur du champ)": "Number(3)"
+    },
+    {
+      "NOM": "MONTANT_INDEMNITE_7",
+      "Type  ( longeur du champ)": "Number(12)"
+    },
+    {
+      "NOM": "DATE_EFFET_INDEM_7",
+      "Type  ( longeur du champ)": "VARCHAR(10)"
+ 
+    }
+  ]
+}
